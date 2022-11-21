@@ -31,3 +31,5 @@ the user, based on the city they choose. The user will then be able to plan acco
 ## Resource Links
 https://github.com/joshfaith24/Weather-Report
 https://joshfaith24.github.io/Weather-Report/
+![Image 11-21-22 at 4 31 PM](https://user-images.githubusercontent.com/113576524/203162257-b5ae2a49-6a26-4e73-b6c9-7da1940609d3.jpg)
+![Image 11-21-22 at 4 31 PM](https://user-images.githubusercontent.com/113576524/203162274-4c79ef03-a7a1-4fb2-8919-b66957dc316f.jpg)
